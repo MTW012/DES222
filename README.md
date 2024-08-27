@@ -1,2 +1,3 @@
 # DES222
-Responsive Design Task1
+Process Journal 
+
